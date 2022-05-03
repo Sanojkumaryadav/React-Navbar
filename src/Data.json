@@ -1,0 +1,20 @@
+    [  {
+    "artName":"Flower Painting",
+    "uploadedBy": "Salv Pesto",
+    "uploadedOn": "05-02-2022",
+    "ratings": 5,
+    "mediaFile": "",
+    "comments" : [ {
+                    "commentBy":"Patrick",
+                    "commentOn":"05-02-2022",
+                    "comments":"This is awesome",
+                    "ratings":5
+                    },{
+                    "commentBy":"Rosina",
+                    "commentOn":"05-02-2022",
+                    "comments":"Nice Painting",
+                    "ratings":4
+                    }
+                ]                                                                                                     
+    }
+    ]
